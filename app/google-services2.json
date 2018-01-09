@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "532467002362",
+    "firebase_url": "https://flashwhatsapp-ab806.firebaseio.com",
+    "project_id": "flashwhatsapp-ab806",
+    "storage_bucket": "flashwhatsapp-ab806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532467002362:android:77e9d0e905583208",
+        "android_client_info": {
+          "package_name": "com.londonappbrewery.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532467002362-blt29mooagloo6oas5q6opbt6cun9ig5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK3GmdZN1_-513Q4JgOocMqLfEDCZ6uSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532467002362:android:006f6886fd63225a",
+        "android_client_info": {
+          "package_name": "com.deepak_mayal7.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532467002362-blt29mooagloo6oas5q6opbt6cun9ig5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK3GmdZN1_-513Q4JgOocMqLfEDCZ6uSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
